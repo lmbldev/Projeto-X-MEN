@@ -13,7 +13,7 @@ Projeto realizado por Lmbldev, pelas dicas e segmentos do Dev em Dobro <br/>
 </p>
 
 <p align="center">
-  <img alt="Meu Projeto finalizado" src="./src/imagens/imgreadme.jpg">
+  <img alt="Meu Projeto finalizado" src="../src/imagens/imgreadme.jpg">
 </p>
 
 <br>
